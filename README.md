@@ -1,2 +1,4 @@
 # hello-world
-The first repo
+
+Hello
+I like books, music and vidya gaems.
